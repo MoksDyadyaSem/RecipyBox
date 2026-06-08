@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "RecipeBox": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5291"
+    }
+  }
+}
